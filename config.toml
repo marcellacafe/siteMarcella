@@ -1,4 +1,4 @@
-baseURL = "https://raditian-hugo.radity.com/"
+baseURL = "https://marcellacafe.netlify.app/"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
