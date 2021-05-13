@@ -19,11 +19,11 @@ showcase:
   button:
     icon: "icon-mail-fill"
     btnText: "Contato"
-    URL: "https://radity.com/en/contact/"
+    URL: <span><a href="mailto:marcellacafe@gmail.com">marcellacafe@gmail.com</a></span>
 
   socialLinks:
     - icon: "linkedin"
-      URL: "https://www.linkedin.com/marcella-café/"
+      URL: "https://bit.ly/33ECMqr"
 
     - icon: "github"
       URL: "https://github.com/marcellacafe"

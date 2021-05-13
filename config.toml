@@ -1,6 +1,7 @@
 baseURL = "https://marcellacafe.netlify.app/"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
+title = "Marcella Café"
 
 # Plugins
 [params.plugins]
