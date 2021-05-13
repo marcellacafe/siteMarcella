@@ -1,0 +1,204 @@
+# homepage
+homepage:
+  head:
+    title: "Home | Raditian"
+# showcase
+showcase:
+  enable: true
+  title: "Olá, eu sou Marcella."
+  subtitle: "Programadora Pleno III"
+  description: "Eu trabalho na <a target='_blank' href='http://www.psvsistemas.com.br/'>PSV</a>, uma empresa de desenvolvimento de software. Atualmente trabalho com análise e visualização de dados utilizando a linguagem R</a>."
+  image:
+    alt: "Showcase keyboard and mouse image"
+    x: "img/showcase/showcase.png"
+    _2x: "img/showcase/showcase@2x.png"
+  imageMobile:
+    alt: "Showcase keyboard and mouse image"
+    x: "img/showcase/showcase-mobile.jpg"
+
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Contato"
+    URL: "https://radity.com/en/contact/"
+
+  socialLinks:
+    - icon: "linkedin"
+      URL: "https://www.linkedin.com/marcella-café/"
+
+    - icon: "github"
+      URL: "https://github.com/marcellacafe"
+
+    - icon: "twitter"
+      URL: "https://twitter.com/marcellacafe"
+
+    - icon: "facebook"
+      URL: "https://www.facebook.com/marcellacafe/"
+
+# about
+about:
+  enable: true
+  title: "Quem sou eu?"
+  content: '<p class="lead">
+    Atualmente trabalho como Programadora Pleno na PSV Engenharia de Sistemas onde realizo projetos na área de Data Science. Possuo habilidades e experiência com as linguagens R, Python, C#, desenvolvimento de aplicações
+    web com R e Shiny, conhecimento em framework web como Angular, banco de dados MySQL, PostSQL e MongoDB, ferramentas de visualização como Power BI.
+    </p>
+    <p class="lead">
+    Hoje tenho focado em buscar conhecimento na área de Data Science.
+    </p>'
+  button:
+    icon: "icon-smile-fill"
+    btnText: "Sobre mim"
+    URL: "https://bit.ly/33ECMqr"
+  image:
+    x: "img/who-am-i/perfil1.png"
+    _2x: "img/who-am-i/user-picture@2x.png"
+
+# education
+education:
+  enable: true
+  title: "Formação"
+  items:
+    - university: "FIA Business School"
+      year: "2021-2021"
+      degree: "Curso de Extensão de Aplicação em Estatística"
+    - university: "Descomplica"
+      year: "2020-2021"
+      degree: "Pós em Big Data"
+
+    - university: "Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais - IFMG"
+      year: "2014-2017"
+      degree: "Licenciatura em Ciência da Computação"
+
+# experience
+experience:
+  enable: true
+  title: "Experiência"
+  description: "Possuo +3 anos de experiência na área de desenvolvimento. Nos últimos dois anos tenho trabalhado com análise exploratória de dados, visualização de dados e modelagem de dados na Linguagem R. Comecei a me envolver durante esse ano em projetos de detecção de objetos utilizando os frameworks YOLO e Darknet."
+  button:
+    icon: "icon-linkedin-fill"
+    btnText: "Linkedin"
+    URL: "https://bit.ly/33ECMqr"
+  button2:
+    icon: "icon-profile-fill"
+    btnText: "Download Currículo"
+    URL: "https://bit.ly/3w2efrp"
+
+  items:
+    - title: "Programador Pleno 3"
+      company: "PSV Engenharia de Sistemas"
+      duration: "Jan. 2020 - o momento"
+      
+    - title: "Programador Pleno"
+      company: "PSV Engenharia de Sistemas"
+      duration: "Out. 2019 - Dez 2020"
+
+    - title: "Desenvolvedor de Software Júnior"
+      company: "PSV Engenharia de Sistemas"
+      duration: "Mai. 2018 - Out. 2019"
+
+# portfolio
+portfolio:
+  title: "Portfólio"
+  enable: true
+
+  works:
+    - title: "Analisando os Dados do Airbnb de Buenos Aires"
+      description: "Análise exploratória da base de dados da cidade de Buenos Aires disponível pelo Airbnb."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Projeto"
+        URL: "https://bit.ly/37PKYqt"
+      image:
+        x: "img/works/buenos.jpg"
+        _2x: "img/works/buenos.jpg"
+      is_even: true
+
+    - title: "Precificação de Imóveis da Cidade de Bangalore"
+      description: "Projeto de predição do valor de imóveis da cidade de Bangalore(Bengaluru)."
+      button:
+        icon: "icon-arrow-right"
+        btnText: "Projeto"
+        URL: "https://cutt.ly/6bGORTR"
+      image:
+        x: "img/works/bangalore.jpg"
+        _2x: "img/works/bangalore.jpg"
+      is_even: false
+
+    # - title: "Robo Advisor"
+    #   description: "Robo Advisor is a Swiss Wealth Manager and wants to create the best digital experience for its UNHW clients across the world. We started with a whiteboard."
+    #   button:
+    #     icon: "icon-arrow-right"
+    #     btnText: "Case Study"
+    #     URL: "#"
+    #   image:
+    #     x: "img/works/robo-advisor.jpg"
+    #     _2x: "img/works/robo-advisor@2x.jpg"
+    #   is_even: true
+
+# testimonial
+testimonial:
+  enable: true
+  title: "Certificações e Cursos"
+
+  items:
+    - university: "Certificação Microsoft Azure AI Fundamentals"
+      degree: "Microsoft"
+      
+    - university: "PH125.1x: Data Science: R Basics"
+      degree: "edX(HarvardX)"
+
+    - university: "PH125.2x: Data Science: Visualization"
+      degree: "edX(HarvardX)"
+      
+    - university: "PH125.3x: Data Science: Probability"
+      degree: "edX(HarvardX)"
+      
+    - university: "Introduction to Probability and Data"
+      degree: "Coursera(Duke)"
+
+    - university: "Introduction to Data Science in Python"
+      degree: "Coursera(University of Michigan)"
+      
+    - university: "Microsoft Power BI para Data Science"
+      degree: "Data Science Academy"
+      
+    - university: "Python Fundamentos para Análise de Dados"
+      degree: "Data Science Academy"
+
+    - university: "Bootcamp Machine Learning"
+      degree: "IGTI"
+      
+    - university: "Bootcamp Desenvolvedor(a) Python"
+      degree: "IGTI"
+      
+    - university: "Data Analysis with Python: Zero to Pandas"
+      degree: "Jovian"
+
+    - university: "Introdução à teoria das probabilidades"
+      degree: "Instituto de Ciências Matemáticas e de Computação (ICMC)"
+      
+    - university: "AceleraDev Data Science"
+      degree: "codenation"
+
+    - university: "Trilha Data Analyst in R"
+      degree: "Dataquest"
+
+# contact
+contact:
+  enable: true
+  title: "Contato"
+
+  phone:
+    title: "Telefone"
+    number: "(31) 99903-3055"
+  email:
+    title: "Email"
+    email: '<a href="mailto:team@marcellacafe@gmail.com">marcellacafe@gmail.com</a>'
+  address:
+    title: "Linkedin"
+    address: '<a href="https://bit.ly/33ECMqr">www.linkedin.com/in/marcella-café</a>'
+  button:
+    icon: "icon-mail-fill"
+    btnText: "Send Message"
+
+
