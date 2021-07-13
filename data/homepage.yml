@@ -6,7 +6,7 @@ homepage:
 showcase:
   enable: true
   title: "Olá, eu sou Marcella."
-  subtitle: "Programadora Pleno III"
+  subtitle: "Cientista de Dados Júnior"
   description: "Eu trabalho na <a target='_blank' href='http://www.psvsistemas.com.br/'>PSV</a>, uma empresa de desenvolvimento de software. Atualmente trabalho com análise e visualização de dados utilizando a linguagem R</a>."
   image:
     alt: "Showcase keyboard and mouse image"
@@ -39,7 +39,7 @@ about:
   enable: true
   title: "Quem sou eu?"
   content: '<p class="lead">
-    Atualmente trabalho como Programadora Pleno na PSV Engenharia de Sistemas onde realizo projetos na área de Data Science. Possuo habilidades e experiência com as linguagens R, Python, C#, desenvolvimento de aplicações
+    Atualmente trabalho como Cientista de Dados Júnior na PSV Engenharia de Sistemas onde realizo projetos na área de Data Science. Possuo habilidades e experiência com as linguagens R, Python, C#, desenvolvimento de aplicações
     web com R e Shiny, conhecimento em framework web como Angular, banco de dados MySQL, PostSQL e MongoDB, ferramentas de visualização como Power BI.
     </p>
     <p class="lead">
@@ -84,9 +84,13 @@ experience:
     URL: "https://bit.ly/3w2efrp"
 
   items:
+    - title: "Cientista de Dados Júnior"
+      company: "PSV Engenharia de Sistemas"
+      duration: "Jun. 2021 - o momento"
+      
     - title: "Programador Pleno 3"
       company: "PSV Engenharia de Sistemas"
-      duration: "Jan. 2020 - o momento"
+      duration: "Jan. 2020 - Jun. 2021"
       
     - title: "Programador Pleno"
       company: "PSV Engenharia de Sistemas"
