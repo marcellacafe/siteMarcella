@@ -6,8 +6,8 @@ homepage:
 showcase:
   enable: true
   title: "Olá, eu sou Marcella."
-  subtitle: "Cientista de Dados Júnior"
-  description: "Eu trabalho na <a target='_blank' href='http://www.psvsistemas.com.br/'>PSV</a>, uma empresa de desenvolvimento de software. Atualmente trabalho com análise e visualização de dados utilizando a linguagem R</a>."
+  subtitle: "Data Scientist"
+  description: "Eu trabalho na <a target='_blank' href='https://www.vallourec.com/pt-BR/br/'>Vallourec</a>, uma empresa líder mundial em soluções tubulares premium, que fornece principalmente para os mercados de petróleo e gás, geração de energia e indústria. Atualmente trabalho com análise, visualização e modelagem de dados utilizando as linguagens R e Python.</a>."
   image:
     alt: "Showcase keyboard and mouse image"
     x: "img/showcase/showcase.png"
@@ -39,11 +39,11 @@ about:
   enable: true
   title: "Quem sou eu?"
   content: '<p class="lead">
-    Atualmente trabalho como Cientista de Dados Júnior na PSV Engenharia de Sistemas onde realizo projetos na área de Data Science. Possuo habilidades e experiência com as linguagens R, Python, C#, desenvolvimento de aplicações
-    web com R e Shiny, conhecimento em framework web como Angular, banco de dados MySQL, PostSQL e MongoDB, ferramentas de visualização como Power BI.
+    Atualmente trabalho como Data Science na Vallourec. Possuo habilidades e experiência com as linguagens R, Python, C#, desenvolvimento de aplicações
+    web com R e Shiny, conhecimento em framework web como Angular, banco de dados MySQL, PostgreSQL e MongoDB, ferramentas de visualização como Power BI.
     </p>
     <p class="lead">
-    Hoje tenho focado em buscar conhecimento na área de Data Science.
+    Hoje tenho focado em buscar mais conhecimento na área de Data Science, além de focar no aprendizado de AWS, Docker e Kubernetes.
     </p>'
   button:
     icon: "icon-smile-fill"
@@ -73,7 +73,7 @@ education:
 experience:
   enable: true
   title: "Experiência"
-  description: "Possuo +3 anos de experiência na área de desenvolvimento. Nos últimos dois anos tenho trabalhado com análise exploratória de dados, visualização de dados e modelagem de dados na Linguagem R. Comecei a me envolver durante esse ano em projetos de detecção de objetos utilizando os frameworks YOLO e Darknet."
+  description: "Possuo +3 anos de experiência na área de desenvolvimento. Nos últimos dois anos tenho trabalhado com análise exploratória de dados, visualização de dados e modelagem de dados na Linguagem R e Python. Também tive a oportunidade de atuar em projetos de detecção de objetos utilizando os frameworks YOLO e Darknet."
   button:
     icon: "icon-linkedin-fill"
     btnText: "Linkedin"
@@ -84,9 +84,13 @@ experience:
     URL: "https://bit.ly/3w2efrp"
 
   items:
+    - title: "Data Scientist"
+      company: "Vallourec"
+      duration: "Nov. 2021 - o momento"
+      
     - title: "Cientista de Dados Júnior"
       company: "PSV Engenharia de Sistemas"
-      duration: "Jun. 2021 - o momento"
+      duration: "Jun. 2021 - Out. 2021"
       
     - title: "Programador Pleno 3"
       company: "PSV Engenharia de Sistemas"
