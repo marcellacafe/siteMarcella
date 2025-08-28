@@ -84,3 +84,8 @@ title = "Marcella Café"
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
         alt = "Design & Code - Radity"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
