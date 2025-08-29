@@ -51,7 +51,7 @@ about:
     URL: "https://bit.ly/33ECMqr"
   image:
     x: "img/who-am-i/perfil1.png"
-    _2x: "img/who-am-i/user-picture@2x.png"
+    _2x: "img/who-am-i/perfil1.png"
 
 # education
 education:
